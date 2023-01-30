@@ -2,5 +2,5 @@ Hi
 Hello
 How
 Are you 
-This is my file file i am going to push in to cental repositiory.
+This is my file file i am going to push it to cental repositiory.
 
